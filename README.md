@@ -17,6 +17,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=ts,js,java,html,css,nodejs,express,react,spring,linux,mysql,md,vim,vscode)](https://skillicons.dev)
+
 
 <center><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=axelhuerta&show_icons=true&locale=en&layout=compact" alt="axelhuerta" /></p></center>
