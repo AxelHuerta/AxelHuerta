@@ -6,18 +6,11 @@
 - 💬 Ask me about **Javascript, Java, HTML5 and CSS**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/axelhuerta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="axelhuerta" height="30" width="40" /></a>
-<a href="https://twitter.com/axelhuertadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="axelhuertadev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/axel-huerta-8615b8270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="axel-huerta-8615b8270" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14924050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14924050" height="30" width="40" /></a>
-<a href="https://instagram.com/axelhuerta.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="axelhuerta.dev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/axelhuerta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="axelhuerta" height="30" width="40" /></a>
-<a href="https://discord.gg/#5466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#5466" height="30" width="40" /></a>
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=discord,linkedin,codepen,stackoverflow,twitter,instagram)](https://skillicons.dev)
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,java,html,css,nodejs,express,spring,react,mysql,linux,vim,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,java,html,css,nodejs,express,spring,react,mysql,linux,neovim,vscode)](https://skillicons.dev)
 
 <center><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=axelhuerta&show_icons=true&locale=en&layout=compact" alt="axelhuerta" /></p></center>
