@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=discord,linkedin,codepen,stackoverflow,twitter,instagram)](https://skillicons.dev)
+[![Contact me](https://skillicons.dev/icons?i=discord,linkedin,codepen,stackoverflow)](discordapp.com/users/5466, https://www.linkedin.com/in/axelhuerta/, https://codepen.io/AxelHuerta, https://stackoverflow.com/users/14924050/axel-huerta)
 
 <h3 align="left">Languages and Tools:</h3>
 
