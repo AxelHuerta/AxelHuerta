@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Contact me](https://skillicons.dev/icons?i=discord)](discordapp.com/users/5466)
+[![Contact me](https://skillicons.dev/icons?i=discord)](https://www.discordapp.com/users/5466)
 
 <h3 align="left">Languages and Tools:</h3>
 
