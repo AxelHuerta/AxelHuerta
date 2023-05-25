@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **Javascript, Java, HTML5 and CSS**
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFmMzg5OTBmNDRkNmQ2OTU4YzNkZmUxZWFkMWNiZjlhNGYxY2VjMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2IudUHdI075HL02Pkk/giphy.gif" width="200" />
+
 <h3 align="left">Connect with me:</h3>
 
 [![Contact me](https://skillicons.dev/icons?i=discord)](https://www.discordapp.com/users/5466)
