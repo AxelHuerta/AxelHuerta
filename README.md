@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Axel Huerta</h1>
 <h3 align="center">A student from the UAM (Universidad Autónoma Metropolitana)</h3>
 
-- 🌱 I’m currently learning **Nodejs, express, Spring Boot and Typescript**
+- 🌱 I’m currently learning **Nodejs, express, Nestjs, Spring Boot and Typescript**
 
-- 💬 Ask me about **Javascript, Java, HTML5 and CSS**
+- 💬 Ask me about **Javascript, Typescript, Java, HTML5 and CSS**
 
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFmMzg5OTBmNDRkNmQ2OTU4YzNkZmUxZWFkMWNiZjlhNGYxY2VjMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2IudUHdI075HL02Pkk/giphy.gif" width="200" />
