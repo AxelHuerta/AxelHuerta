@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Axel Huerta</h1>
 <h3 align="center">A student from the UAM (Universidad Autónoma Metropolitana)</h3>
 
-- 🌱 I’m currently learning **Nodejs, express, Spring Boot, Typescript and Go**
+- 🌱 I’m currently learning **Nodejs, Spring Boot, Typescript, Go and Python**
 
 - 💬 Ask me about **Javascript, Typescript, Java, HTML5 and CSS**
 
