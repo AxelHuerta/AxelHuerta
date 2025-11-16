@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Axel Huerta</h1>
-<h3 align="center">A student from the UAM (Universidad Autónoma Metropolitana)</h3>
+<h3 align="center">Software Developer • Graduated from UAM (Universidad Autónoma Metropolitana)</h3>
 
 - 🌱 I’m currently learning **Nextjs, Astro and Spring Boot**
 
