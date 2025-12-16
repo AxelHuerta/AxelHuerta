@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Axel Huerta</h1>
 <h3 align="center">Software Developer • Graduated from UAM (Universidad Autónoma Metropolitana)</h3>
 
-- 🌱 I’m currently learning **Nextjs, Astro and Spring Boot**
+- 🌱 I’m currently learning **Vue & Go**
 
 - 💬 Ask me about **Javascript, Typescript, React, Java, HTML and CSS**
 
@@ -16,6 +16,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,java,html,css,nodejs,express,deno,spring,react,next,astro,tailwind,mysql,postgres,mongodb,linux,neovim,vscode,md,docker,git,arch&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,java,html,css,nodejs,express,deno,spring,react,next,astro,tailwind,mysql,postgres,mongodb,linux,neovim,vscode,md,docker,git,arch,figma,go,vue&perline=6)](https://skillicons.dev)
 
 <center><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=axelhuerta&show_icons=true&locale=en&layout=compact" alt="axelhuerta" /></p></center>
